@@ -1,0 +1,8 @@
+prefix=/home/agx/cvbridge_build_ws/install
+
+Name: ecobot
+Description: Description of ecobot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

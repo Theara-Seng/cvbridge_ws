@@ -1,0 +1,17 @@
+/home/agx/cvbridge_build_ws/install/_setup_util.py
+/home/agx/cvbridge_build_ws/install/env.sh
+/home/agx/cvbridge_build_ws/install/setup.bash
+/home/agx/cvbridge_build_ws/install/local_setup.bash
+/home/agx/cvbridge_build_ws/install/setup.sh
+/home/agx/cvbridge_build_ws/install/local_setup.sh
+/home/agx/cvbridge_build_ws/install/setup.zsh
+/home/agx/cvbridge_build_ws/install/local_setup.zsh
+/home/agx/cvbridge_build_ws/install/.rosinstall
+/home/agx/cvbridge_build_ws/install/lib/pkgconfig/image_geometry.pc
+/home/agx/cvbridge_build_ws/install/share/image_geometry/cmake/image_geometryConfig.cmake
+/home/agx/cvbridge_build_ws/install/share/image_geometry/cmake/image_geometryConfig-version.cmake
+/home/agx/cvbridge_build_ws/install/share/image_geometry/package.xml
+/home/agx/cvbridge_build_ws/install/include/image_geometry//pinhole_camera_model.h
+/home/agx/cvbridge_build_ws/install/include/image_geometry//exports.h
+/home/agx/cvbridge_build_ws/install/include/image_geometry//stereo_camera_model.h
+/home/agx/cvbridge_build_ws/install/lib/libimage_geometry.so

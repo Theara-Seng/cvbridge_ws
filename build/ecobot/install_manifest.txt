@@ -1,0 +1,13 @@
+/home/agx/cvbridge_build_ws/install/_setup_util.py
+/home/agx/cvbridge_build_ws/install/env.sh
+/home/agx/cvbridge_build_ws/install/setup.bash
+/home/agx/cvbridge_build_ws/install/local_setup.bash
+/home/agx/cvbridge_build_ws/install/setup.sh
+/home/agx/cvbridge_build_ws/install/local_setup.sh
+/home/agx/cvbridge_build_ws/install/setup.zsh
+/home/agx/cvbridge_build_ws/install/local_setup.zsh
+/home/agx/cvbridge_build_ws/install/.rosinstall
+/home/agx/cvbridge_build_ws/install/lib/pkgconfig/ecobot.pc
+/home/agx/cvbridge_build_ws/install/share/ecobot/cmake/ecobotConfig.cmake
+/home/agx/cvbridge_build_ws/install/share/ecobot/cmake/ecobotConfig-version.cmake
+/home/agx/cvbridge_build_ws/install/share/ecobot/package.xml

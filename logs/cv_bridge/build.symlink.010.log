@@ -1,0 +1,8 @@
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/lib/libcv_bridge.so, /home/agx/cvbridge_build_ws/devel/lib/libcv_bridge.so)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/lib/pkgconfig/cv_bridge.pc, /home/agx/cvbridge_build_ws/devel/lib/pkgconfig/cv_bridge.pc)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/lib/python3/dist-packages/cv_bridge/__init__.py, /home/agx/cvbridge_build_ws/devel/lib/python3/dist-packages/cv_bridge/__init__.py)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/lib/python3/dist-packages/cv_bridge/boost/cv_bridge_boost.so, /home/agx/cvbridge_build_ws/devel/lib/python3/dist-packages/cv_bridge/boost/cv_bridge_boost.so)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/lib/python3/dist-packages/cv_bridge/boost/__init__.py, /home/agx/cvbridge_build_ws/devel/lib/python3/dist-packages/cv_bridge/boost/__init__.py)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake, /home/agx/cvbridge_build_ws/devel/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig.cmake, /home/agx/cvbridge_build_ws/devel/share/cv_bridge/cmake/cv_bridgeConfig.cmake)
+Linked: (/home/agx/cvbridge_build_ws/devel/.private/cv_bridge/share/cv_bridge/cmake/cv_bridge-extras.cmake, /home/agx/cvbridge_build_ws/devel/share/cv_bridge/cmake/cv_bridge-extras.cmake)

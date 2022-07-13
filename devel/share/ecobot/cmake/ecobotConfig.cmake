@@ -1,0 +1,1 @@
+/home/agx/cvbridge_build_ws/devel/.private/ecobot/share/ecobot/cmake/ecobotConfig.cmake

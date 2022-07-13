@@ -1,0 +1,50 @@
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target cv_bridge[0m
+[ 33%] [32mBuilding CXX object src/CMakeFiles/cv_bridge.dir/rgb_colors.cpp.o[0m
+[ 33%] [32mBuilding CXX object src/CMakeFiles/cv_bridge.dir/cv_bridge.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/agx/cvbridge_build_ws/devel/.private/cv_bridge/lib/libcv_bridge.so[0m
+[ 50%] Built target cv_bridge
+[35m[1mScanning dependencies of target cv_bridge_boost[0m
+[ 83%] [32mBuilding CXX object src/CMakeFiles/cv_bridge_boost.dir/module.cpp.o[0m
+[ 83%] [32mBuilding CXX object src/CMakeFiles/cv_bridge_boost.dir/module_opencv4.cpp.o[0m
+In file included from [01m[K/usr/include/boost/python/detail/prefix.hpp:13:0[m[K,
+                 from [01m[K/usr/include/boost/python/args.hpp:8[m[K,
+                 from [01m[K/usr/include/boost/python.hpp:11[m[K,
+                 from [01m[K/home/agx/cvbridge_build_ws/src/vision_opencv/cv_bridge/src/module.hpp:21[m[K,
+                 from [01m[K/home/agx/cvbridge_build_ws/src/vision_opencv/cv_bridge/src/module_opencv4.cpp:3[m[K:
+[01m[K/usr/include/boost/python/detail/wrap_python.hpp:50:11:[m[K [01;31m[Kfatal error: [m[Kpyconfig.h: No such file or directory
+ # include [01;31m[K<pyconfig.h>[m[K
+           [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/python/detail/prefix.hpp:13:0[m[K,
+                 from [01m[K/usr/include/boost/python/args.hpp:8[m[K,
+                 from [01m[K/usr/include/boost/python.hpp:11[m[K,
+                 from [01m[K/home/agx/cvbridge_build_ws/src/vision_opencv/cv_bridge/src/module.hpp:21[m[K,
+                 from [01m[K/home/agx/cvbridge_build_ws/src/vision_opencv/cv_bridge/src/module.cpp:35[m[K:
+[01m[K/usr/include/boost/python/detail/wrap_python.hpp:50:11:[m[K [01;31m[Kfatal error: [m[Kpyconfig.h: No such file or directory
+ # include [01;31m[K<pyconfig.h>[m[K
+           [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+compilation terminated.
+src/CMakeFiles/cv_bridge_boost.dir/build.make:86: recipe for target 'src/CMakeFiles/cv_bridge_boost.dir/module_opencv4.cpp.o' failed
+src/CMakeFiles/cv_bridge_boost.dir/build.make:62: recipe for target 'src/CMakeFiles/cv_bridge_boost.dir/module.cpp.o' failed
+make[2]: *** [src/CMakeFiles/cv_bridge_boost.dir/module_opencv4.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** [src/CMakeFiles/cv_bridge_boost.dir/module.cpp.o] Error 1
+CMakeFiles/Makefile2:930: recipe for target 'src/CMakeFiles/cv_bridge_boost.dir/all' failed
+make[1]: *** [src/CMakeFiles/cv_bridge_boost.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2
